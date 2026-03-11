@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wl,--dependency-file=CMakeFiles/calcolo_media_temperature.dir/link.d CMakeFiles/calcolo_media_temperature.dir/calcolomedia.cpp.o -o calcolo_media_temperature
